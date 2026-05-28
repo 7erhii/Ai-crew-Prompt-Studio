@@ -1,7 +1,7 @@
 # idea-factory
 
 Reusable specialist library + orchestrator for turning a raw idea into a
-prototyping spec (docs + plan), like the AURA brand/design docs.
+prototyping spec (docs + plan). Brand/design docs.
 
 ## How to run (through an AI agent: Cursor or terminal claude)
 
